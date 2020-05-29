@@ -1,4 +1,19 @@
-代码托管
+代码托管  git
 
 划分目录结构
+  --...
+    --public
+    --src
+      --common      // 公共js
+      --assets
+        --css
+        --img
+      --components
+        --common    //所有项目公用
+        --content   //本项目组件公用
+      --network     //ajax相关
+      --router
+      --store
+      --views       //各个页面
 
+每个view页面的ajax请求单独做一个封装
