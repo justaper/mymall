@@ -17,3 +17,19 @@
       --views       //各个页面
 
 每个view页面的ajax请求单独做一个封装
+
+tabbar
+navbar
+tabcontrol
+。。。
+单独封装
+
+Home 页面布局组件划分
+每一个组件单独封装为子组件
+
+商品数据保存模型
+  goods: {
+    'pop': {page: 0, list: []},
+    'news': {page: 0, list: []},
+    'sell': {page: 0, list: []}
+  }

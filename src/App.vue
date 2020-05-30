@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-29 13:29:08
- * @LastEditTime: 2020-05-29 18:12:18
+ * @LastEditTime: 2020-05-30 15:15:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \js模块化f:\js\vue\mymall\src\App.vue
@@ -15,7 +15,7 @@
 
 <script>
   import mainTabbar from 'components/content/mainTabbar/mainTabbar'
-
+  
   export default {
     name: 'App',
     components: {
